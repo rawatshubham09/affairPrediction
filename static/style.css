@@ -1,0 +1,22 @@
+ body {background-color: #99fff;
+            border-style: solid;
+            border-radius: 20px;
+            border-color: #00ADCE;
+            padding: 20px;
+            }
+ h1 { color : #004159;
+            text-align : center;
+            text-decoration: underline;
+            }
+
+ h2 {color: #0052A5;
+            text-align : center;}
+
+ .my_div { text-align : center;
+                  background-color : #59DBF1;
+                  border-style: solid;
+                   border-color: blue;
+                   border-radius: 20px;
+                   padding: 30px;
+
+                }
